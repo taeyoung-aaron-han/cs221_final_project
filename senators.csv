@@ -1,0 +1,102 @@
+congress,chamber,icpsr,state_icpsr,district_code,state_abbrev,party_code,bioname,screen_name,bioguide_id,born,nominate_dim1,nominate_dim2,nominate_log_likelihood,nominate_geo_mean_probability,nominate_number_of_votes,nominate_number_of_errors,nokken_poole_dim1,nokken_poole_dim2,economic_simple_pc,social_simple_pc,economic_simple_tr,social_simple_tr,econ_and_social
+116,Senate,41705,41,0,AL,100,"JONES, Gordon Douglas (Doug)",SenDougJones,J000300,1954,-0.089,0.199,-55.29461,0.88627,458,23,-0.078,0.262,right,libertarian,right,left,rightleft
+116,Senate,94659,41,0,AL,200,"SHELBY, Richard C.",SenShelby,S000320,1934,0.428,0.515,-34.95693,0.92861,472,17,0.429,0.093,right,authoritarian,right,right,rightright
+116,Senate,40300,81,0,AK,200,"MURKOWSKI, Lisa",lisamurkowski,M001153,1957,0.21,-0.291,-32.62963,0.92915,444,8,0.278,-0.432,right ,authoritarian,right ,left,right left
+116,Senate,41500,81,0,AK,200,"SULLIVAN, Daniel Scott",SenDanSullivan,S001198,1964,0.48,0.072,-37.85845,0.92197,466,16,0.506,0.019,right,authoritarian,right,right,rightright
+116,Senate,21300,61,0,AZ,100,"SINEMA, Kyrsten",RepSinema,S001191,1976,-0.102,0.058,-63.07191,0.86922,450,18,-0.058,0.188,left,libertarian,left,left,leftleft
+116,Senate,21501,61,0,AZ,200,"McSALLY, Martha",RepMcSally,M001197,1966,0.345,0.025,-30.92947,0.93618,469,12,0.346,0.246,right,authoritarian,right,right,rightright
+116,Senate,20101,42,0,AR,200,"BOOZMAN, John",JohnBoozman,B001236,1950,0.4,0.248,-19.83398,0.95902,474,7,0.343,0.255,right,authoritarian,right,right,rightright
+116,Senate,21301,42,0,AR,200,"COTTON, Tom",SenTomCotton,C001095,1977,0.576,0.107,-47.00756,0.90502,471,21,0.433,0.076,right,libertarian,right,right,rightright
+116,Senate,41701,71,0,CA,100,"HARRIS, Kamala Devi",SenKamalaHarris,H001075,1964,-0.702,-0.117,-18.7005,0.92474,239,9,-0.724,-0.238,left,authoritarian,left,left,leftleft
+116,Senate,49300,71,0,CA,100,"FEINSTEIN, Dianne",SenFeinstein,F000062,1933,-0.268,-0.199,-57.71989,0.88535,474,16,-0.265,-0.096,left,authoritarian,left,left,leftleft
+116,Senate,21112,62,0,CO,200,"GARDNER, Cory",SenCoryGardner,G000562,1974,0.445,-0.021,-33.97153,0.9294,464,15,0.344,0.022,right,authoritarian,right,right,rightright
+116,Senate,40910,62,0,CO,100,"BENNET, Michael F.",SenBennetCO,B001267,1964,-0.22,-0.157,-81.68542,0.79649,359,39,-0.283,-0.166,left,libertarian,left,left,leftleft
+116,Senate,20707,1,0,CT,100,"MURPHY, Christopher",ChrisMurphyCT,M001169,1973,-0.275,-0.195,-110.76147,0.79044,471,48,-0.163,-0.316,left,authoritarian,left,left,leftleft
+116,Senate,41101,1,0,CT,100,"BLUMENTHAL, Richard",SenBlumenthal,B001277,1946,-0.43,-0.081,-67.00539,0.86739,471,31,-0.45,-0.014,left,authoritarian,left,left,leftleft
+116,Senate,15015,11,0,DE,100,"CARPER, Thomas Richard",SenatorCarper,C000174,1947,-0.175,-0.229,-86.81493,0.83167,471,26,-0.186,-0.314,left,authoritarian,left,left,leftleft
+116,Senate,40916,11,0,DE,100,"COONS, Christopher A.",ChrisCoons,C001088,1963,-0.225,-0.225,-52.91714,0.89133,460,17,-0.192,-0.269,left,libertarian,left,left,leftleft
+116,Senate,41102,43,0,FL,200,"RUBIO, Marco",marcorubio,R000595,1971,0.572,-0.269,-39.59251,0.91684,456,16,0.54,-0.097,right,authoritarian,right,right,rightright
+116,Senate,41903,43,0,FL,200,"SCOTT, Richard Lynn (Rick)",FLGovScott,S001217,1952,0.512,0.099,-37.65789,0.9214,460,22,0.513,0.098,right,libertarian,right,right,rightright
+116,Senate,29909,44,0,GA,200,"ISAKSON, Johnny",SenatorIsakson,I000055,1944,0.402,-0.011,-10.54373,0.96184,271,2,0.336,0.153,right,libertarian,right,left,rightleft
+116,Senate,41501,44,0,GA,200,"PERDUE, David Alfred, Jr.",Perduesenate,P000612,1949,0.57,-0.074,-31.00502,0.93136,436,17,0.48,0.256,right,authoritarian,right,right,rightright
+116,Senate,41904,44,0,GA,200,"LOEFFLER, Kelly",SenatorLoeffler,L000594,1970,0.539,0.273,-5.25595,0.93935,84,3,0.54,0.269,right,authoritarian,right,right,rightright
+116,Senate,20713,82,0,HI,100,"HIRONO, Mazie",maziehirono,H001042,1947,-0.509,-0.095,-61.12568,0.87481,457,30,-0.566,-0.062,left,authoritarian,left,left,leftleft
+116,Senate,41112,82,0,HI,100,"SCHATZ, Brian Emanuel",brianschatz,S001194,1972,-0.445,-0.075,-71.73744,0.85732,466,28,-0.473,-0.057,left,authoritarian,left,left,leftleft
+116,Senate,29345,63,0,ID,200,"CRAPO, Michael Dean",MikeCrapo,C000880,1951,0.51,0.291,-26.25544,0.94567,470,12,0.492,0.632,right,libertarian,right,right,rightright
+116,Senate,40902,63,0,ID,200,"RISCH, James",SenatorRisch,R000584,1943,0.631,0.564,-20.33505,0.9573,466,12,0.591,0.603,right,libertarian,right,right,rightright
+116,Senate,15021,21,0,IL,100,"DURBIN, Richard Joseph",SenatorDurbin,D000563,1944,-0.352,-0.329,-91.76167,0.82126,466,51,-0.296,-0.094,right,authoritarian,right,left,rightleft
+116,Senate,21325,21,0,IL,100,"DUCKWORTH, Tammy",SenDuckworth,D000622,1968,-0.333,0.108,-72.1791,0.85301,454,30,-0.371,0.209,left,authoritarian,left,left,leftleft
+116,Senate,21133,22,0,IN,200,"YOUNG, Todd",SenToddYoung,Y000064,1972,0.476,-0.03,-63.42345,0.87275,466,31,0.479,-0.468,right,authoritarian,right,right,rightright
+116,Senate,41900,22,0,IN,200,"BRAUN, Michael",SenatorBraun,B001310,1954,0.8,0.6,-32.30694,0.93398,473,16,0.827,0.562,right,libertarian,right,right,rightright
+116,Senate,14226,31,0,IA,200,"GRASSLEY, Charles Ernest",ChuckGrassley,G000386,1933,0.346,-0.065,-51.21694,0.89758,474,19,0.511,0.113,right,libertarian,right,right,rightright
+116,Senate,41502,31,0,IA,200,"ERNST, Joni",joniernst,E000295,1970,0.53,-0.023,-42.43309,0.91332,468,17,0.561,-0.084,right,authoritarian,right,right,rightright
+116,Senate,14852,32,0,KS,200,"ROBERTS, Charles Patrick (Pat)",SenPatRoberts,R000307,1936,0.413,-0.091,-18.33671,0.95963,445,2,0.339,0.211,right,authoritarian,right,right,rightright
+116,Senate,29722,32,0,KS,200,"MORAN, Jerry",JerryMoran,M000934,1954,0.413,0.2,-74.72748,0.84082,431,26,0.391,-0.356,right,authoritarian,right,right,rightright
+116,Senate,14921,51,0,KY,200,"McCONNELL, Addison Mitchell (Mitch)",SenateMajLdr,M000355,1942,0.402,0.004,-43.46731,0.91238,474,12,0.32,0.155,right,authoritarian,right,right,rightright
+116,Senate,41104,51,0,KY,200,"PAUL, Rand",RandPaul,P000603,1963,0.878,-0.479,-122.38309,0.7533,432,64,0.885,-0.466,right,libertarian,right,right,rightright
+116,Senate,20919,45,0,LA,200,"CASSIDY, Bill",BillCassidy,C001075,1957,0.454,-0.107,-34.45969,0.92417,437,17,0.502,-0.15,right,authoritarian,right,right,rightright
+116,Senate,41703,45,0,LA,200,"KENNEDY, John Neely",SenJohnKennedy,K000393,1951,0.562,0.269,-45.27329,0.90665,462,22,0.643,-0.03,right,authoritarian,right,right,rightright
+116,Senate,41300,2,0,ME,328,"KING, Angus Stanley, Jr.",SenAngusKing,K000383,1944,-0.154,-0.226,-52.75366,0.89468,474,20,-0.162,-0.21,right,authoritarian,right,left,rightleft
+116,Senate,49703,2,0,ME,200,"COLLINS, Susan Margaret",SenatorCollins,C001035,1952,0.112,-0.542,-41.04286,0.91705,474,10,0.129,-0.419,right,libertarian,right,left,rightleft
+116,Senate,15408,52,0,MD,100,"CARDIN, Benjamin Louis",SenatorCardin,C000141,1943,-0.321,-0.232,-76.32886,0.84981,469,30,-0.276,-0.075,left,authoritarian,left,right,leftright
+116,Senate,20330,52,0,MD,100,"VAN HOLLEN, Christopher",ChrisVanHollen,V000128,1959,-0.389,-0.19,-73.14251,0.85673,473,27,-0.369,-0.293,left,authoritarian,left,left,leftleft
+116,Senate,14435,3,0,MA,100,"MARKEY, Edward John",SenMarkey,M000133,1946,-0.511,-0.45,-56.51375,0.88099,446,17,-0.611,-0.769,left,libertarian,left,left,leftleft
+116,Senate,41301,3,0,MA,100,"WARREN, Elizabeth",SenWarren,W000817,1949,-0.767,-0.27,-10.64836,0.95588,236,4,-0.797,-0.33,left,authoritarian,left,left,leftleft
+116,Senate,20923,23,0,MI,100,"PETERS, Gary C.",SenGaryPeters,P000595,1958,-0.245,-0.2,-86.22988,0.83367,474,42,-0.303,-0.073,left,authoritarian,left,left,leftleft
+116,Senate,29732,23,0,MI,100,"STABENOW, Deborah Ann",SenStabenow,S000770,1950,-0.341,-0.007,-98.6568,0.80846,464,50,-0.388,-0.168,left,authoritarian,left,left,leftleft
+116,Senate,40700,33,0,MN,100,"KLOBUCHAR, Amy",amyklobuchar,K000367,1960,-0.277,-0.329,-118.63621,0.67514,302,61,-0.483,-0.506,left,authoritarian,left,left,leftleft
+116,Senate,41706,33,0,MN,100,"SMITH, Tina",SenTinaSmith,S001203,1958,-0.393,-0.086,-60.06022,0.88099,474,24,-0.412,-0.071,left,authoritarian,left,left,leftleft
+116,Senate,29534,46,0,MS,200,"WICKER, Roger F.",SenatorWiker,W000437,1951,0.376,0.352,-22.93573,0.95267,473,7,0.374,0.2,right,libertarian,right,right,rightright
+116,Senate,41707,46,0,MS,200,"HYDE-SMITH, Cindy",SenHydeSmith,H001079,1959,0.366,0.277,-14.12414,0.97021,467,4,0.349,0.318,right,authoritarian,right,right,rightright
+116,Senate,29735,34,0,MO,200,"BLUNT, Roy",RoyBlunt,B000575,1950,0.427,0.281,-24.10318,0.95001,470,9,0.35,0.174,right,authoritarian,right,right,rightright
+116,Senate,41901,34,0,MO,200,"HAWLEY, Joshua David",SenHawleyPress,H001089,1979,0.565,-0.315,-42.58643,0.9139,473,22,0.565,-0.316,left,authoritarian,left,right,leftright
+116,Senate,21338,64,0,MT,200,"DAINES, Steve",SteveDaines,D000618,1962,0.556,-0.102,-44.4068,0.90929,467,27,0.606,-0.139,right,authoritarian,right,right,rightright
+116,Senate,40702,64,0,MT,100,"TESTER, Jon",SenatorTester,T000464,1956,-0.217,0.135,-64.89206,0.87205,474,24,-0.244,0.085,left,libertarian,left,left,leftleft
+116,Senate,41302,35,0,NE,200,"FISCHER, Debra (Deb)",SenatorFischer,F000463,1951,0.473,0.336,-18.76069,0.96071,468,8,0.498,0.465,right,authoritarian,right,right,rightright
+116,Senate,41503,35,0,NE,200,"SASSE, Benjamin Eric",SenSasse,S001197,1972,0.796,-0.242,-29.13318,0.93824,457,12,0.731,-0.157,right,libertarian,right,right,rightright
+116,Senate,21743,65,0,NV,100,"ROSEN, Jacklyn Sheryl",SenJackyRosen,R000608,1957,-0.276,0.281,-48.01533,0.90308,471,15,-0.309,0.317,left,authoritarian,left,left,leftleft
+116,Senate,41700,65,0,NV,100,"CORTEZ MASTO, Catherine Marie",SenCortezMasto,C001113,1964,-0.37,0.333,-49.1715,0.90087,471,24,-0.348,0.319,left,libertarian,left,left,leftleft
+116,Senate,40906,4,0,NH,100,"SHAHEEN, Jeanne",SenatorShaheen,S001181,1947,-0.24,-0.163,-63.59953,0.87419,473,28,-0.215,-0.048,left,libertarian,left,left,leftleft
+116,Senate,41702,4,0,NH,100,"HASSAN, Margaret (Maggie)",SenatorHassan,H001076,1958,-0.241,-0.048,-57.42571,0.8859,474,27,-0.226,-0.006,left,authoritarian,left,left,leftleft
+116,Senate,29373,12,0,NJ,100,"MENENDEZ, Robert",SenatorMenendez,M000639,1954,-0.364,-0.116,-92.53481,0.82265,474,37,-0.373,-0.09,left,authoritarian,left,left,leftleft
+116,Senate,41308,12,0,NJ,100,"BOOKER, Cory Anthony",CoryBooker,B001288,1969,-0.609,-0.214,-24.72551,0.89184,216,11,-0.601,-0.356,left,libertarian,left,left,leftleft
+116,Senate,20930,66,0,NM,100,"HEINRICH, Martin",MartinHeinrich,H001046,1971,-0.323,-0.015,-96.68433,0.81081,461,43,-0.382,-0.022,left,authoritarian,left,left,leftleft
+116,Senate,29924,66,0,NM,100,"UDALL, Thomas (Tom)",SenatorTomUdall,U000039,1948,-0.452,0.17,-62.9039,0.87347,465,26,-0.431,0.054,left,authoritarian,left,left,leftleft
+116,Senate,14858,13,0,NY,100,"SCHUMER, Charles Ellis (Chuck)",SenSchumer,S000148,1950,-0.357,-0.398,-80.45386,0.84389,474,37,-0.41,-0.381,right,authoritarian,right,left,rightleft
+116,Senate,20735,13,0,NY,100,"GILLIBRAND, Kirsten",SenGillibrand,G000555,1966,-0.473,-0.423,-74.7582,0.81794,372,45,-0.832,-0.542,right,authoritarian,right,left,rightleft
+116,Senate,29548,47,0,NC,200,"BURR, Richard M.",SenatorBurr,B001135,1955,0.451,-0.053,-22.3783,0.94917,429,5,0.339,0.226,right,authoritarian,right,right,rightright
+116,Senate,41504,47,0,NC,200,"TILLIS, Thomas Roland (Thom)",SenThomTillis,T000476,1960,0.433,0.073,-28.80698,0.93826,452,14,0.456,0.329,right ,authoritarian,right ,right,right right
+116,Senate,21350,36,0,ND,200,"CRAMER, Kevin",SenKevinCramer,C001096,1961,0.389,0.297,-15.41281,0.96753,467,6,0.371,0.283,right,libertarian,right,right,rightright
+116,Senate,41107,36,0,ND,200,"HOEVEN, John",SenJohnHoeven,H001061,1957,0.343,0.33,-16.75019,0.96499,470,6,0.366,0.304,right,authoritarian,right,right,rightright
+116,Senate,29386,24,0,OH,200,"PORTMAN, Robert Jones (Rob)",senrobportman,P000449,1955,0.373,-0.239,-23.12697,0.95218,472,6,0.308,0.069,right,libertarian,right,right,rightright
+116,Senate,29389,24,0,OH,100,"BROWN, Sherrod",SenSherrodBrown,B000944,1952,-0.431,-0.121,-97.14607,0.81255,468,43,-0.382,-0.093,left,authoritarian,left,left,leftleft
+116,Senate,15424,53,0,OK,200,"INHOFE, James Mountain",JimInhofe,I000024,1934,0.555,0.042,-37.75777,0.92152,462,22,0.645,-0.176,right,authoritarian,right,right,rightright
+116,Senate,21166,53,0,OK,200,"LANKFORD, James",SenatorLankford,L000575,1968,0.588,0.163,-27.85633,0.94292,474,13,0.692,0.183,right,authoritarian,right,right,rightright
+116,Senate,14871,72,0,OR,100,"WYDEN, Ronald Lee",RonWyden,W000779,1949,-0.327,-0.457,-96.31176,0.81292,465,52,-0.369,-0.579,right,authoritarian,right,left,rightleft
+116,Senate,40908,72,0,OR,100,"MERKLEY, Jeff",SenJeffMerkley,M001176,1956,-0.444,-0.739,-67.10962,0.86746,472,24,-0.408,-0.701,left,authoritarian,left,left,leftleft
+116,Senate,29935,14,0,PA,200,"TOOMEY, Patrick Joseph",SenToomey,T000461,1961,0.646,-0.294,-42.74819,0.90976,452,16,0.732,-0.218,right,authoritarian,right,right,rightright
+116,Senate,40703,14,0,PA,100,"CASEY, Robert (Bob), Jr.",SenBobCasey,C001070,1960,-0.311,0.196,-79.79824,0.84506,474,33,-0.329,0.222,left,authoritarian,left,left,leftleft
+116,Senate,29142,5,0,RI,100,"REED, John F. (Jack)",SenJackReed,R000122,1949,-0.371,-0.198,-80.81403,0.84264,472,44,-0.328,-0.103,left,libertarian,left,left,leftleft
+116,Senate,40704,5,0,RI,100,"WHITEHOUSE, Sheldon",SenWhitehouse,W000802,1955,-0.36,-0.135,-92.62007,0.81285,447,49,-0.298,-0.05,left,authoritarian,left,left,leftleft
+116,Senate,21173,48,0,SC,200,"SCOTT, Tim",SenatorTimScott,S001184,1965,0.643,0.006,-30.98765,0.93593,468,14,0.58,0.16,right,authoritarian,right,right,rightright
+116,Senate,29566,48,0,SC,200,"GRAHAM, Lindsey O.",LindseyGrahamSC,G000359,1955,0.406,-0.168,-24.3295,0.94793,455,6,0.329,0.052,right,authoritarian,right,right,rightright
+116,Senate,29754,37,0,SD,200,"THUNE, John",SenJohnThune,T000250,1961,0.41,0.138,-18.56485,0.96143,472,8,0.385,0.324,right,authoritarian,right,right,rightright
+116,Senate,41505,37,0,SD,200,"ROUNDS, Marion Michael (Mike)",SenatorRounds,R000605,1954,0.396,0.082,-24.21886,0.94511,429,9,0.409,0.265,right,authoritarian,right,right,rightright
+116,Senate,20351,54,0,TN,200,"BLACKBURN, Marsha",MarshaBlackburn,B001243,1952,0.618,0.132,-33.33171,0.93154,470,14,0.696,0.283,right,authoritarian,right,right,rightright
+116,Senate,40304,54,0,TN,200,"ALEXANDER, Lamar",SenAlexander,A000360,1940,0.324,-0.176,-24.34483,0.93857,384,9,0.328,-0.062,right,libertarian,right,right,rightright
+116,Senate,40305,49,0,TX,200,"CORNYN, John",JohnCornyn,C001056,1952,0.495,0.002,-24.47486,0.94905,468,11,0.458,0.25,right,authoritarian,right,right,rightright
+116,Senate,41304,49,0,TX,200,"CRUZ, Rafael Edward (Ted)",tedcruz,C001098,1970,0.818,-0.283,-32.55138,0.93066,453,15,0.833,-0.131,right,authoritarian,right,right,rightright
+116,Senate,41110,67,0,UT,200,"LEE, Mike",SenMikeLee,L000577,1971,0.913,-0.408,-90.11241,0.82383,465,52,0.875,-0.484,right,authoritarian,right,right,rightright
+116,Senate,41902,67,0,UT,200,"ROMNEY, Willard Mitt (Mitt)",SenatorRomney,R000615,1947,0.365,0.705,-53.94168,0.89157,470,22,0.365,0.705,left,libertarian,left,right,leftright
+116,Senate,14307,6,0,VT,100,"LEAHY, Patrick Joseph",SenatorLeahy,L000174,1940,-0.361,-0.129,-87.41394,0.82896,466,49,-0.283,-0.014,left,libertarian,left,left,leftleft
+116,Senate,29147,6,0,VT,328,"SANDERS, Bernard",BernieSanders,S000033,1941,-0.527,-0.373,-31.96504,0.84288,187,13,-0.86,-0.077,left,authoritarian,left,left,leftleft
+116,Senate,40909,40,0,VA,100,"WARNER, Mark",MarkWarner,W000805,1954,-0.2,-0.039,-56.42905,0.88408,458,19,-0.222,-0.062,left,authoritarian,left,left,leftleft
+116,Senate,41305,40,0,VA,100,"KAINE, Timothy Michael (Tim)",timkaine,K000384,1958,-0.239,-0.071,-63.6578,0.87206,465,27,-0.247,-0.012,left,libertarian,left,left,leftleft
+116,Senate,39310,73,0,WA,100,"CANTWELL, Maria E.",SenatorCantwell,C000127,1958,-0.301,-0.4,-82.59769,0.83884,470,41,-0.356,-0.301,left,authoritarian,left,left,leftleft
+116,Senate,49308,73,0,WA,100,"MURRAY, Patty",PattyMurray,M001111,1950,-0.35,-0.284,-67.6758,0.86263,458,31,-0.405,-0.162,left,libertarian,left,left,leftleft
+116,Senate,20146,56,0,WV,200,"CAPITO, Shelley Moore",SenCapito,C001047,1953,0.262,0.058,-23.43182,0.95044,461,4,0.322,0.179,right,libertarian,right,right,rightright
+116,Senate,40915,56,0,WV,100,"MANCHIN, Joe, III",Sen_JoeManchin,M001183,1947,-0.056,0.446,-46.5571,0.90569,470,11,-0.046,0.383,left,authoritarian,left,right,leftright
+116,Senate,29940,25,0,WI,100,"BALDWIN, Tammy",SenatorBaldwin,B001230,1962,-0.498,-0.178,-96.53096,0.8154,473,47,-0.396,-0.056,left,authoritarian,left,left,leftleft
+116,Senate,41111,25,0,WI,200,"JOHNSON, Ron",SenRonJohnson,J000293,1955,0.603,-0.286,-37.67772,0.92136,460,17,0.595,-0.041,right,libertarian,right,right,rightright
+116,Senate,40707,68,0,WY,200,"BARRASSO, John A.",SenJohnBarrasso,B001261,1952,0.539,0.237,-24.36335,0.9499,474,14,0.598,0.237,right,libertarian,right,right,rightright
+116,Senate,49706,68,0,WY,200,"ENZI, Michael B.",SenatorEnzi,E000285,1944,0.544,0.191,-36.74725,0.92495,471,14,0.579,0.319,right,authoritarian,right,right,rightright

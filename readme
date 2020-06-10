@@ -1,0 +1,2 @@
+The Tweet dataset that we used can be found here: https://files.pushshift.io/twitter/US_PoliticalTweets.tar.gz
+The file was too large to be pushed to GitHub, and uploading a smaller subset of the json file was much more difficult than anticipated. 
